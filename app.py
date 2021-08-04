@@ -24,6 +24,8 @@ app = dash.Dash(
     }]
 )
 
+server = app.server
+
 clubs = pd.read_csv("data/clubs_extended.csv")
 players = pd.read_csv("data/players_extended.csv")
 games = pd.read_csv("data/games_extended.csv")
