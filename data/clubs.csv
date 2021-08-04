@@ -1,0 +1,242 @@
+club_id,name,pretty_name,domestic_competition,league_id
+2282,fc-brugge,Fc Brugge,BE1,BE1
+1184,krc-genk,Krc Genk,BE1,BE1
+58,rsc-anderlecht,Rsc Anderlecht,BE1,BE1
+3057,standard-luttich,Standard Luttich,BE1,BE1
+157,kaa-gent,Kaa Gent,BE1,BE1
+1096,royal-antwerpen-fc,Royal Antwerpen Fc,BE1,BE1
+172,rsc-charleroi,Rsc Charleroi,BE1,BE1
+520,cercle-brugge,Cercle Brugge,BE1,BE1
+2727,oud-heverlee-leuven,Oud Heverlee Leuven,BE1,BE1
+354,kv-mechelen,Kv Mechelen,BE1,BE1
+2861,kv-oostende,Kv Oostende,BE1,BE1
+41274,beerschot-v-a-,Beerschot V A ,BE1,BE1
+3508,sv-zulte-waregem,Sv Zulte Waregem,BE1,BE1
+29228,royal-excel-mouscron,Royal Excel Mouscron,BE1,BE1
+601,kv-kortrijk,Kv Kortrijk,BE1,BE1
+475,vv-st-truiden,Vv St Truiden,BE1,BE1
+1245,kas-eupen,Kas Eupen,BE1,BE1
+28643,waasland-beveren,Waasland Beveren,BE1,BE1
+964,zenit-st-petersburg,Zenit St Petersburg,RU1,RU1
+232,spartak-moskau,Spartak Moskau,RU1,RU1
+2410,zska-moskau,Zska Moskau,RU1,RU1
+16704,fk-krasnodar,Fk Krasnodar,RU1,RU1
+932,lokomotiv-moskau,Lokomotiv Moskau,RU1,RU1
+121,dinamo-moskau,Dinamo Moskau,RU1,RU1
+2698,rubin-kazan,Rubin Kazan,RU1,RU1
+1083,fk-rostov,Fk Rostov,RU1,RU1
+41231,fk-sochi,Fk Sochi,RU1,RU1
+3725,akhmat-grozny,Akhmat Grozny,RU1,RU1
+3729,arsenal-tula,Arsenal Tula,RU1,RU1
+3719,fk-khimki,Fk Khimki,RU1,RU1
+11127,ural-ekaterinburg,Ural Ekaterinburg,RU1,RU1
+3609,rotor-volgograd,Rotor Volgograd,RU1,RU1
+28095,fk-ufa,Fk Ufa,RU1,RU1
+41201,pfk-tambov,Pfk Tambov,RU1,RU1
+27,fc-bayern-munchen,Fc Bayern Munchen,L1,L1
+16,borussia-dortmund,Borussia Dortmund,L1,L1
+23826,rasenballsport-leipzig,Rasenballsport Leipzig,L1,L1
+15,bayer-04-leverkusen,Bayer 04 Leverkusen,L1,L1
+18,borussia-monchengladbach,Borussia Monchengladbach,L1,L1
+82,vfl-wolfsburg,Vfl Wolfsburg,L1,L1
+24,eintracht-frankfurt,Eintracht Frankfurt,L1,L1
+533,tsg-1899-hoffenheim,Tsg 1899 Hoffenheim,L1,L1
+44,hertha-bsc,Hertha Bsc,L1,L1
+79,vfb-stuttgart,Vfb Stuttgart,L1,L1
+60,sc-freiburg,Sc Freiburg,L1,L1
+3,1-fc-koln,1 Fc Koln,L1,L1
+33,fc-schalke-04,Fc Schalke 04,L1,L1
+86,sv-werder-bremen,Sv Werder Bremen,L1,L1
+167,fc-augsburg,Fc Augsburg,L1,L1
+39,1-fsv-mainz-05,1 Fsv Mainz 05,L1,L1
+89,1-fc-union-berlin,1 Fc Union Berlin,L1,L1
+10,arminia-bielefeld,Arminia Bielefeld,L1,L1
+610,ajax-amsterdam,Ajax Amsterdam,NL1,NL1
+383,psv-eindhoven,Psv Eindhoven,NL1,NL1
+1090,az-alkmaar,Az Alkmaar,NL1,NL1
+234,feyenoord-rotterdam,Feyenoord Rotterdam,NL1,NL1
+200,fc-utrecht,Fc Utrecht,NL1,NL1
+202,fc-groningen,Fc Groningen,NL1,NL1
+499,vitesse-arnheim,Vitesse Arnheim,NL1,NL1
+306,sc-heerenveen,Sc Heerenveen,NL1,NL1
+317,fc-twente-enschede,Fc Twente Enschede,NL1,NL1
+403,willem-ii-tilburg,Willem Ii Tilburg,NL1,NL1
+1304,heracles-almelo,Heracles Almelo,NL1,NL1
+1269,pec-zwolle,Pec Zwolle,NL1,NL1
+468,sparta-rotterdam,Sparta Rotterdam,NL1,NL1
+385,fortuna-sittard,Fortuna Sittard,NL1,NL1
+1283,fc-emmen,Fc Emmen,NL1,NL1
+1268,ado-den-haag,Ado Den Haag,NL1,NL1
+1426,vvv-venlo,Vvv Venlo,NL1,NL1
+235,rkc-waalwijk,Rkc Waalwijk,NL1,NL1
+131,fc-barcelona,Fc Barcelona,ES1,ES1
+13,atletico-madrid,Atletico Madrid,ES1,ES1
+418,real-madrid,Real Madrid,ES1,ES1
+368,fc-sevilla,Fc Sevilla,ES1,ES1
+681,real-sociedad-san-sebastian,Real Sociedad San Sebastian,ES1,ES1
+1049,fc-valencia,Fc Valencia,ES1,ES1
+1050,fc-villarreal,Fc Villarreal,ES1,ES1
+621,athletic-bilbao,Athletic Bilbao,ES1,ES1
+150,real-betis-sevilla,Real Betis Sevilla,ES1,ES1
+3709,fc-getafe,Fc Getafe,ES1,ES1
+940,celta-vigo,Celta Vigo,ES1,ES1
+16795,fc-granada,Fc Granada,ES1,ES1
+3368,ud-levante,Ud Levante,ES1,ES1
+331,ca-osasuna,Ca Osasuna,ES1,ES1
+1108,deportivo-alaves,Deportivo Alaves,ES1,ES1
+1533,sd-eibar,Sd Eibar,ES1,ES1
+366,real-valladolid,Real Valladolid,ES1,ES1
+5358,sd-huesca,Sd Huesca,ES1,ES1
+1531,fc-elche,Fc Elche,ES1,ES1
+2687,fc-cadiz,Fc Cadiz,ES1,ES1
+720,fc-porto,Fc Porto,PO1,PO1
+294,benfica-lissabon,Benfica Lissabon,PO1,PO1
+336,sporting-lissabon,Sporting Lissabon,PO1,PO1
+1075,sc-braga,Sc Braga,PO1,PO1
+3329,fc-famalicao,Fc Famalicao,PO1,PO1
+2420,vitoria-guimaraes-sc,Vitoria Guimaraes Sc,PO1,PO1
+2503,boavista-porto-fc,Boavista Porto Fc,PO1,PO1
+2995,fc-pacos-de-ferreira,Fc Pacos De Ferreira,PO1,PO1
+2425,rio-ave-fc,Rio Ave Fc,PO1,PO1
+7378,portimonense-sc,Portimonense Sc,PO1,PO1
+4294,sc-farense,Sc Farense,PO1,PO1
+2423,cd-santa-clara,Cd Santa Clara,PO1,PO1
+1301,cs-maritimo,Cs Maritimo,PO1,PO1
+979,moreirense-fc,Moreirense Fc,PO1,PO1
+2457,belenenses-sad,Belenenses Sad,PO1,PO1
+2424,gil-vicente-fc,Gil Vicente Fc,PO1,PO1
+7179,cd-tondela,Cd Tondela,PO1,PO1
+982,cd-nacional,Cd Nacional,PO1,PO1
+281,manchester-city,Manchester City,GB1,GB1
+31,fc-liverpool,Fc Liverpool,GB1,GB1
+631,fc-chelsea,Fc Chelsea,GB1,GB1
+985,manchester-united,Manchester United,GB1,GB1
+148,tottenham-hotspur,Tottenham Hotspur,GB1,GB1
+11,fc-arsenal,Fc Arsenal,GB1,GB1
+1003,leicester-city,Leicester City,GB1,GB1
+29,fc-everton,Fc Everton,GB1,GB1
+543,wolverhampton-wanderers,Wolverhampton Wanderers,GB1,GB1
+405,aston-villa,Aston Villa,GB1,GB1
+1237,brighton-amp-hove-albion,Brighton Amp Hove Albion,GB1,GB1
+180,fc-southampton,Fc Southampton,GB1,GB1
+379,west-ham-united,West Ham United,GB1,GB1
+762,newcastle-united,Newcastle United,GB1,GB1
+931,fc-fulham,Fc Fulham,GB1,GB1
+399,leeds-united,Leeds United,GB1,GB1
+873,crystal-palace,Crystal Palace,GB1,GB1
+350,sheffield-united,Sheffield United,GB1,GB1
+1132,fc-burnley,Fc Burnley,GB1,GB1
+984,west-bromwich-albion,West Bromwich Albion,GB1,GB1
+583,fc-paris-saint-germain,Fc Paris Saint Germain,FR1,FR1
+162,as-monaco,As Monaco,FR1,FR1
+1041,olympique-lyon,Olympique Lyon,FR1,FR1
+1082,losc-lille,Losc Lille,FR1,FR1
+273,fc-stade-rennes,Fc Stade Rennes,FR1,FR1
+244,olympique-marseille,Olympique Marseille,FR1,FR1
+417,ogc-nizza,Ogc Nizza,FR1,FR1
+969,montpellier-hsc,Montpellier Hsc,FR1,FR1
+667,rc-strassburg-alsace,Rc Strassburg Alsace,FR1,FR1
+618,as-saint-etienne,As Saint Etienne,FR1,FR1
+1421,stade-reims,Stade Reims,FR1,FR1
+826,rc-lens,Rc Lens,FR1,FR1
+995,fc-nantes,Fc Nantes,FR1,FR1
+40,fc-girondins-bordeaux,Fc Girondins Bordeaux,FR1,FR1
+3911,stade-brest-29,Stade Brest 29,FR1,FR1
+347,fc-metz,Fc Metz,FR1,FR1
+1420,sco-angers,Sco Angers,FR1,FR1
+1158,fc-lorient,Fc Lorient,FR1,FR1
+2969,dijon-fco,Dijon Fco,FR1,FR1
+1160,nimes-olympique,Nimes Olympique,FR1,FR1
+660,shakhtar-donetsk,Shakhtar Donetsk,UKR1,UKR1
+338,dynamo-kiew,Dynamo Kiew,UKR1,UKR1
+10690,zorya-lugansk,Zorya Lugansk,UKR1,UKR1
+16239,desna-chernigiv,Desna Chernigiv,UKR1,UKR1
+2740,vorskla-poltava,Vorskla Poltava,UKR1,UKR1
+48332,kolos-kovalivka,Kolos Kovalivka,UKR1,UKR1
+6993,fk-mariupol,Fk Mariupol,UKR1,UKR1
+18303,fk-oleksandriya,Fk Oleksandriya,UKR1,UKR1
+60551,sk-dnipro-1,Sk Dnipro 1,UKR1,UKR1
+23611,olimpik-donetsk,Olimpik Donetsk,UKR1,UKR1
+48726,rukh-lviv,Rukh Lviv,UKR1,UKR1
+49364,ingulets-petrove,Ingulets Petrove,UKR1,UKR1
+18105,pfk-lviv,Pfk Lviv,UKR1,UKR1
+61825,fk-minaj,Fk Minaj,UKR1,UKR1
+865,fc-midtjylland,Fc Midtjylland,DK1,DK1
+190,fc-kopenhagen,Fc Kopenhagen,DK1,DK1
+206,brondby-if,Brondby If,DK1,DK1
+2778,fc-nordsjaelland,Fc Nordsjaelland,DK1,DK1
+678,aarhus-gf,Aarhus Gf,DK1,DK1
+1053,aalborg-bk,Aalborg Bk,DK1,DK1
+173,odense-boldklub,Odense Boldklub,DK1,DK1
+443,vejle-boldklub,Vejle Boldklub,DK1,DK1
+5817,sonderjyske,Sonderjyske,DK1,DK1
+5724,randers-fc,Randers Fc,DK1,DK1
+369,lyngby-bk,Lyngby Bk,DK1,DK1
+2414,ac-horsens,Ac Horsens,DK1,DK1
+683,olympiakos-piraus,Olympiakos Piraus,GR1,GR1
+1091,paok-thessaloniki,Paok Thessaloniki,GR1,GR1
+2441,aek-athen,Aek Athen,GR1,GR1
+265,panathinaikos-athen,Panathinaikos Athen,GR1,GR1
+605,aris-thessaloniki,Aris Thessaloniki,GR1,GR1
+653,ofi-kreta,Ofi Kreta,GR1,GR1
+3060,atromitos-athen,Atromitos Athen,GR1,GR1
+6676,asteras-tripolis,Asteras Tripolis,GR1,GR1
+6418,panetolikos-gfs,Panetolikos Gfs,GR1,GR1
+4603,ae-larisa,Ae Larisa,GR1,GR1
+60949,volos-nps,Volos Nps,GR1,GR1
+3999,pas-lamia-1964,Pas Lamia 1964,GR1,GR1
+2671,pas-giannina,Pas Giannina,GR1,GR1
+441,apollon-smyrnis,Apollon Smyrnis,GR1,GR1
+371,celtic-glasgow,Celtic Glasgow,SC1,SC1
+124,glasgow-rangers,Glasgow Rangers,SC1,SC1
+903,hibernian-fc,Hibernian Fc,SC1,SC1
+370,aberdeen-fc,Aberdeen Fc,SC1,SC1
+987,motherwell-fc,Motherwell Fc,SC1,SC1
+1519,dundee-united-fc,Dundee United Fc,SC1,SC1
+1241,livingston-fc,Livingston Fc,SC1,SC1
+2578,st-johnstone-fc,St Johnstone Fc,SC1,SC1
+2553,kilmarnock-fc,Kilmarnock Fc,SC1,SC1
+2759,ross-county-fc,Ross County Fc,SC1,SC1
+2999,hamilton-academical-fc,Hamilton Academical Fc,SC1,SC1
+465,st-mirren-fc,St Mirren Fc,SC1,SC1
+46,inter-mailand,Inter Mailand,IT1,IT1
+506,juventus-turin,Juventus Turin,IT1,IT1
+6195,ssc-neapel,Ssc Neapel,IT1,IT1
+5,ac-mailand,Ac Mailand,IT1,IT1
+12,as-rom,As Rom,IT1,IT1
+800,atalanta-bergamo,Atalanta Bergamo,IT1,IT1
+398,lazio-rom,Lazio Rom,IT1,IT1
+6574,us-sassuolo,Us Sassuolo,IT1,IT1
+430,ac-florenz,Ac Florenz,IT1,IT1
+1390,cagliari-calcio,Cagliari Calcio,IT1,IT1
+276,hellas-verona,Hellas Verona,IT1,IT1
+416,fc-turin,Fc Turin,IT1,IT1
+1025,fc-bologna,Fc Bologna,IT1,IT1
+410,udinese-calcio,Udinese Calcio,IT1,IT1
+130,parma-calcio-1913,Parma Calcio 1913,IT1,IT1
+1038,sampdoria-genua,Sampdoria Genua,IT1,IT1
+252,genua-cfc,Genua Cfc,IT1,IT1
+3522,spezia-calcio,Spezia Calcio,IT1,IT1
+4171,benevento-calcio,Benevento Calcio,IT1,IT1
+4083,fc-crotone,Fc Crotone,IT1,IT1
+141,galatasaray-istanbul,Galatasaray Istanbul,TR1,TR1
+36,fenerbahce-istanbul,Fenerbahce Istanbul,TR1,TR1
+114,besiktas-istanbul,Besiktas Istanbul,TR1,TR1
+449,trabzonspor,Trabzonspor,TR1,TR1
+6890,istanbul-basaksehir-fk,Istanbul Basaksehir Fk,TR1,TR1
+11282,alanyaspor,Alanyaspor,TR1,TR1
+10484,kasimpasa,Kasimpasa,TR1,TR1
+7775,hatayspor,Hatayspor,TR1,TR1
+1467,goztepe,Goztepe,TR1,TR1
+6646,fatih-karagumruk,Fatih Karagumruk,TR1,TR1
+2381,sivasspor,Sivasspor,TR1,TR1
+126,caykur-rizespor,Caykur Rizespor,TR1,TR1
+2832,gaziantep-fk,Gaziantep Fk,TR1,TR1
+2293,konyaspor,Konyaspor,TR1,TR1
+589,antalyaspor,Antalyaspor,TR1,TR1
+3205,kayserispor,Kayserispor,TR1,TR1
+19789,yeni-malatyaspor,Yeni Malatyaspor,TR1,TR1
+868,mke-ankaragucu,Mke Ankaragucu,TR1,TR1
+820,genclerbirligi-ankara,Genclerbirligi Ankara,TR1,TR1
+833,denizlispor,Denizlispor,TR1,TR1
+39722,buyuksehir-belediye-erzurumspor,Buyuksehir Belediye Erzurumspor,TR1,TR1

@@ -1,0 +1,9 @@
+name: transfermarkt 
+
+datasets: appearances, clubs, games, leagues, players
+
+origin: https://www.kaggle.com/davidcariboo/player-scores/version/70
+
+version: 70
+
+
