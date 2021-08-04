@@ -642,4 +642,4 @@ def update_pie_charts(league, team):
     return advantage_results_league_fig, advantage_results_team_fig, league_name, club_name
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
